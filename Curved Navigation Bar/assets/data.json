@@ -1,0 +1,26 @@
+[
+  {
+    "placeImage": "images/McD.jpg",
+    "placeName": "McDonald's",
+    "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/Dp.jpg",
+    "placeName": "Dominos Pizza",
+    "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/wm.jpg",
+    "placeName": "Wow Momos",
+    "placeItems": ["Pizza","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/SW.jpg",
+    "placeName": "SubWay",
+    "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+    "minOrder": 40
+  }
+]
